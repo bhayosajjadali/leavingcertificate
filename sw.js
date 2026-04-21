@@ -1,4 +1,4 @@
-const CACHE_NAME = 'lc-v2';
+const CACHE_NAME = 'lc-v3';
 
 // Use relative paths — they resolve against the service worker's scope automatically
 self.addEventListener('install', event => {
